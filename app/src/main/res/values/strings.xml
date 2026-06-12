@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">دیکشنری دامپزشکی</string>
+    <string name="search">جستجو</string>
+    <string name="categories">دسته‌بندی‌ها</string>
+    <string name="favorites">علاقه‌مندی‌ها</string>
+    <string name="profile">پروفایل</string>
+    <string name="search_hint">جستجو کنید...</string>
+    <string name="history">سابقه</string>
+    <string name="add_to_favorites">افزودن به علاقه‌مندی‌ها</string>
+    <string name="remove_from_favorites">حذف از علاقه‌مندی‌ها</string>
+    <string name="pronunciation">تلفظ صحیح</string>
+    <string name="category">دسته‌بندی</string>
+    <string name="source">منبع</string>
+    <string name="login">ورود</string>
+    <string name="logout">خروج</string>
+    <string name="settings">تنظیمات</string>
+    <string name="dark_mode">حالت شب</string>
+    <string name="language">زبان</string>
+</resources>
